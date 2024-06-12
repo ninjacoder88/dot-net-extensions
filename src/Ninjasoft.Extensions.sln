@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ninjasoft.Extensions", "Ninjasoft.Extensions\Ninjasoft.Extensions.csproj", "{5561ADD4-2938-48D5-BB21-6864C0C56D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninjasoft.Extensions.UnitTests", "Ninjasoft.Extensions.UnitTests\Ninjasoft.Extensions.UnitTests.csproj", "{45D0DA08-0BD2-4EB7-82E1-B30811786CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5561ADD4-2938-48D5-BB21-6864C0C56D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5561ADD4-2938-48D5-BB21-6864C0C56D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5561ADD4-2938-48D5-BB21-6864C0C56D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5561ADD4-2938-48D5-BB21-6864C0C56D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D0DA08-0BD2-4EB7-82E1-B30811786CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D0DA08-0BD2-4EB7-82E1-B30811786CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D0DA08-0BD2-4EB7-82E1-B30811786CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D0DA08-0BD2-4EB7-82E1-B30811786CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1251926E-76E4-4043-B80C-7CCCFE947C3E}
+	EndGlobalSection
+EndGlobal
